@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/nandakumar19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandakumar19" height="30" width="40" /></a>
 <a href="https://fb.com/nandakumar19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nandakumar19" height="30" width="40" /></a>
 <a href="https://instagram.com/nanda_kumar_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nanda_kumar_r" height="30" width="40" /></a>
-<a href="https://medium.com/@nandakumar19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nandakumar19" height="30" width="40" /></a>
+<a href="https://medium.com/@rnandakumar19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nandakumar19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
